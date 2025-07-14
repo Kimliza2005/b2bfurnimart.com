@@ -1,0 +1,98 @@
+{
+  "menu": [
+    {
+      "title": "Shop All",
+      "path": "/"
+    },
+    {
+      "title": "Living room",
+      "path": "#"
+    },
+    {
+      "title": "Bedroom",
+      "path": "#"
+    },
+    {
+      "title": "Office Furniture",
+      "path": "#"
+    },
+    {
+      "title": "Dinning room",
+      "path": "#"
+    },
+    {
+      "title": "Promotions",
+      "path": "#"
+    },
+    {
+      "title": "Contact us",
+      "path": "#"
+    }
+  ],
+  "mobile_menu": [
+    {
+      "name": "Home",
+      "href": "/"
+    },
+    {
+      "name": "Search",
+      "href": "/search"
+    },
+    {
+      "name": "Product",
+      "href": "/products"
+    },
+    {
+      "name": "Cart",
+      "href": "/cart"
+    },
+    {
+      "name": "User",
+      "isUser": true,
+      "href": "/auth/login"
+    }
+  ],
+
+  "social": [
+    { "name": "FaceBook", "color": "#1672E6", "href": "https://web.facebook.com/furnistyleshop?_rdc=1&_rdr#" },
+    { "name": "Instagram", "color": "#F40052", "href": "#" },
+    { "name": "Pinterest", "color": "#B7081B", "href": "#" }
+  ],
+  "company": {
+    "company_name": "Commercehope",
+    "address": "123 Main Street Apartment 567",
+    "email": "test@example.com",
+    "phone": "555-1234-2222"
+  },
+  "footer_links": [
+    {
+      "headline": "Product",
+      "children": [
+        { "name": "application", "href": "#" },
+        { "name": "features", "href": "#" },
+        { "name": "Requirements", "href": "#" },
+        { "name": "Technology", "href": "#" }
+      ]
+    },
+    {
+      "headline": "Resources",
+      "children": [
+        { "name": "Changelogy", "href": "#" },
+        { "name": "Updates", "href": "#" },
+        { "name": "Providers", "href": "#" },
+        { "name": "Affiliat", "href": "#" },
+        { "name": "Roadmap", "href": "#" }
+      ]
+    },
+    {
+      "headline": "Company",
+      "children": [
+        { "name": "Blog", "href": "#" },
+        { "name": "about us", "href": "#" },
+        { "name": "contact us", "href": "#" },
+        { "name": "Jobs", "href": "#" },
+        { "name": "Team", "href": "#" }
+      ]
+    }
+  ]
+}
