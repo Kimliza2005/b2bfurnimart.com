@@ -44,20 +44,19 @@ import Footer from 'src/components/layout/_main/footer';
 
 // Meta information
 export const metadata = {
-  title: 'Commercehope E-commerce Script | Your Gateway to Seamless Shopping and Secure Transactions',
+  title: 'B2B Furnimart | Wholesale Furniture for Your Business',
   description:
-    'Log in to Commercehope for secure access to your account. Enjoy seamless shopping, personalized experiences, and hassle-free transactions. Your trusted portal to a world of convenience awaits. Login now!',
-  applicationName: 'Commercehope',
-  authors: 'Commercehope',
-  keywords: 'ecommerce, Commercehope, Commerce, Login Commercehope, LoginFrom Commercehope',
+    'Welcome to B2B Furnimart — your trusted source for high-quality wholesale furniture. Shop with ease, enjoy seamless transactions, and grow your business with our curated collections.',
+  applicationName: 'B2B Furnimart',
+  authors: 'B2B Furnimart',
+  keywords: 'furniture, B2B furniture, wholesale furniture, office furniture, home furniture, business furniture',
   icons: {
     icon: '/favicon.png'
   },
   openGraph: {
-    images: 'https://commercehope-app.vercel.app/opengraph-image.png'
+    images: '/opengraph-image.jpg'
   }
 };
-
 export default function RootLayout({ children }) {
   return (
     <>
